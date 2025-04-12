@@ -16,7 +16,7 @@ O repositório está dividido em várias pastas, cada uma representando um tópi
 
 ## Objetivo
 
-Este repositório tem como objetivo ajudar na prática de conceitos fundamentais do C# e .NET para quem deseja aprender e melhorar suas habilidades em programação. Os exercícios variam de simples a intermediários, cobrindo uma ampla gama de tópicos que são essenciais para programadores iniciantes e intermediários.
+Este repositório tem como objetivo ajudar na prática de conceitos fundamentais do C# e .NET para que eu possa evoluir, e compartilhar cada exercício resolvido, e também te impulsionar a evoluir em C#, e melhorar suas habilidades em programação. Os exercícios variam de simples a intermediários, cobrindo uma ampla gama de tópicos que são essenciais para programadores iniciantes e intermediários.
 
 ## Como Executar os Exercícios
 
