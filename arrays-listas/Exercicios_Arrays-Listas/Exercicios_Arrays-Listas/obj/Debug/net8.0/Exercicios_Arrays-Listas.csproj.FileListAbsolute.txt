@@ -1,0 +1,1 @@
+C:\Users\kauel\Desktop\Carreira profissional\Conteudos para estudo\Estudos práticos\Back-End .NET C#\Exercicios-.NET\arrays-listas\Exercicios_Arrays-Listas\Exercicios_Arrays-Listas\obj\Debug\net8.0\Exercicios_Arrays-Listas.GeneratedMSBuildEditorConfig.editorconfig
